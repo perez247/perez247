@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-# [Excellence Pere 🌐](https://aepere.space/)
+# [Excellence Pere 🌐](https://aepere.netlify.app/)
 
 ## Overview
 
